@@ -25,7 +25,7 @@ from shapely.geometry import Polygon, Point
 
 
 # +
-
+'''Berlin Map'''
 
 # Public token to access Mapbox layout style for Plotly
 fig = px.scatter_mapbox()
